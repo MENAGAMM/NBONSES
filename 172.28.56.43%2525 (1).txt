@@ -1,0 +1,47 @@
+172.28.56.43/25
+
+
+172.28.56.43    => 10101100.00011100.00111000.0 0101011
+
+255.255.255.128 => 11111111.11111111.11111111.1 0000000
+
+
+
+Number of bits taken for subnetting : 9
+
+Number of Subnets possible: 2^9 = 512
+
+Number of host bits remaining : 7
+
+Number of hosts possible in each subnet: 2^7 - 2 = 126
+
+First Host Address: 172.28.56.1
+
+Last Host Address: 172.28.56.126
+
+Network Address of this IP Address: 172.28.56.0
+
+Previous Subnet to the current subnet: 172.28.55.128
+
+Netx Subnet to the Current Subnet:172.28.56.128
+
+Broadcast Address: 172.28.56.127
+
+Previous IP Address: 172.28.56.42
+
+Netx IP Address: 172.28.56.44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
