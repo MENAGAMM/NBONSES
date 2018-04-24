@@ -1,0 +1,101 @@
+172.22.44.1/23
+
+
+172.28.56.43    => 10101100.00010110.00101100.0 0000001
+
+255.255.254.0 => 11111111.11111111.11111110.0 0000000
+
+
+
+Number of bits taken for subnetting : 7
+
+Number of Subnets possible: 2^7 = 128
+
+Number of host bits remaining : 9
+
+Number of hosts possible in each subnet: 2^9 - 2 = 510
+
+First Host Address: 172.22.45.1
+
+Last Host Address: 172.22.45.254
+
+Network Address of this IP Address: 172.22.44.1
+
+Previous Subnet to the current subnet: 172.22.
+
+Netx Subnet to the Current Subnet:172.28.56.128
+
+Broadcast Address: 172.22.45.255
+
+Previous IP Address: 172.22.44.0
+
+Netx IP Address: 172.22.44.2
+
+
+
+192.168.18.19/27
+
+
+192.168.18.19    => 10101100.00011100.00111000.0 0101011
+
+255.255.255.254 => 11111111.11111111.11111111.1 11111110
+
+
+
+Number of bits taken for subnetting : 3
+
+Number of Subnets possible: 2^3 = 8
+
+Number of host bits remaining : 5
+
+Number of hosts possible in each subnet: 2^5 - 2 = 30
+
+First Host Address: 192.168.18.1
+
+Last Host Address: 192.168.18.30
+
+Network Address of this IP Address: 192.168.18.0
+
+Previous Subnet to the current subnet: 192.168.17.223
+
+Netx Subnet to the Current Subnet:192.168.18.32
+
+Broadcast Address: 192.168.18.31
+
+Previous IP Address: 192.168.18.18
+
+Netx IP Address: 192.168.18.20
+
+
+192.168.18.31/31
+
+
+192.168.18.31    => 11000000.10101000.00010010.0 0011111
+
+255.255.255.254 => 11111111.11111111.11111111.1 11111110
+
+
+
+Number of bits taken for subnetting : 7
+
+Number of Subnets possible: 2^7 = 128
+
+Number of host bits remaining : 1
+
+Number of hosts possible in each subnet: 2^1 - 2 = 0
+
+First Host Address: 192.168.18.31
+
+Last Host Address:192.168.18.30
+
+Network Address of this IP Address:192.168.18.30
+
+Previous Subnet to the current subnet:
+
+Netx Subnet to the Current Subnet:
+
+Broadcast Address: 192.168.18.30
+
+Previous IP Address: 192.168.18.30
+
+Netx IP Address: 192.168.18.32
